@@ -1,0 +1,11 @@
+tensorflow[and-cuda]
+cleanlab[all]
+matplotlib
+numpy
+pandas
+pyyaml
+seaborn
+scikit-learn
+omnixai
+shap
+lime
